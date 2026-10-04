@@ -224,4 +224,5 @@ __marimo__/
 
 # Editors
 .vscode/
-.idea/roughwork/
+.idea/
+roughwork/
